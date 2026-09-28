@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="CRI",CRI中文环球广播
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1 group-title="CRI",CRI环球资讯FM90.5
+http://sk.cri.cn/905.m3u8
+#EXTINF:-1 group-title="CRI",CRI NEWS PLUS AM846
+http://sk.cri.cn/am846.m3u8
