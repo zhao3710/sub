@@ -1,7 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="CRI",CRI中文环球广播
+#EXTINF:-1 group-title="CN",中国之声
+https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 group-title="CN",经济之声
+https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 group-title="CN",环球广播
 http://sk.cri.cn/hyhq.m3u8
-#EXTINF:-1 group-title="CRI",CRI环球资讯FM90.5
+#EXTINF:-1 group-title="CN",环球资讯
 http://sk.cri.cn/905.m3u8
-#EXTINF:-1 group-title="CRI",CRI NEWS PLUS AM846
+#EXTINF:-1 group-title="CN",News+
 http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 group-title="CN",CCTV-1 综合
+https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+#EXTINF:-1 group-title="CN",CCTV-4 国际
+https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+#EXTINF:-1 group-title="CN",CCTV-6 电影
+https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
+#EXTINF:-1 group-title="CN",CCTV-8 电视剧
+https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
+#EXTINF:-1 group-title="CN",CCTV-13 新闻
+https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+#EXTINF:-1 group-title="CN",CCTV-15 音乐
+https://piccpndks.v.kcdnvip.com/audio/cctv15_2/index.m3u8
+#EXTINF:-1 group-title="CN",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+#EXTINF:-1 group-title="CN",凤凰中文
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+#EXTINF:-1 group-title="CN",清晨音乐台
+https://lhttp.qingting.fm/live/4915/64k.mp3
+#EXTINF:-1 group-title="CN",阿基米德故事会
+https://lhttp.qingting.fm/live/20500182/64k.mp3
